@@ -1,1 +1,11 @@
-# patica_marge_sort_project
+# patica_merge_sort_project
+Merge Sort Projesi
+dizimiz: [16,21,11,8,12,22]
+sirala_merge
+ [16,21,11] [8,12,22]
+ [16] [21,11] [8] [12,22]
+ [16] [21] [11] [8] [12] [22]
+ [16] [11,22] [8] [12,22]
+ [11,16,21] [8,12,22]
+ [8,11,12,16,21,22]
+ 
